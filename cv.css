@@ -1,0 +1,38 @@
+h1 {
+  color: grey;
+  font-family: 'Oswald', sans-serif;
+  padding-left: 50%;
+}
+
+#bodi{
+  border: .5em;
+  font-family: 'Anonymous Pro', monospace;
+  background-color: yellow;
+  position: absolute;
+  right: 1em;
+  top: 1em;
+  width: calc(100% - 24em);
+  min-height: 70vh;
+
+}
+div.info{
+    color: white;
+    line-height: 1em;
+    padding: 1em;
+}
+
+#part{
+  margin: 0;
+  display: block;
+  background-color: rgba(12, 70, 186, 0.8);
+  border: .5em;
+  width: 22em;
+  position: absolute;
+  left: 1em;
+  top: 1em;
+  min-height: 70vh;
+}
+
+h2 {
+  font-family: 'Source Serif Pro', serif;
+}
